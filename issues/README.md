@@ -46,8 +46,8 @@ Primero tendremos que hacer un ```git pull origin main``` para descargar los cam
 ![](/issues/fotos/pull.png)
 
 Despues de esto volvemos a realizar los mismos pasos solo que cuando se realice el commit se pondra el numero que le corresponde a este issues
-![](/issues/fotos/6.png)
 
+![](/issues/fotos/6.png)
 ![](/issues/fotos/9.png)
 ![](/issues/fotos/10.png)
 ![](/issues/fotos/11.png)
